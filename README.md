@@ -75,13 +75,7 @@ To output the analysis plots (distributions, correlation heatmaps, etc.) into th
 python visualize.py
 ```
 
-### 3. Generate Academic Word Documentation
-To compile the professional academic document (Arabic Word format):
-```bash
-python build_documentation.py
-```
-
-### 4. Run Interactive Personality Profiler
+### 3. Run Interactive Personality Profiler
 To run the model on your own input data and generate your visual Personality Report Card:
 ```bash
 python analyze.py
