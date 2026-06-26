@@ -99,12 +99,6 @@ Models are evaluated using **Mean Squared Error (MSE)** on a 20% validation spli
 
 ---
 
-## 🛡️ License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 ## 👥 Contributors
 
 *   **Batoul Mohammad Khalil**
