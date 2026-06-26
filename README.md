@@ -22,7 +22,6 @@ PsychoMedia is an AI-driven data science project that combines **psycholinguisti
 *   `analyze.py`: Interactive command-line interface. Guides the user through intuitive questions to capture social network metrics, accepts post text, runs prediction, and triggers personality card generation.
 *   `personality_card.py`: Handles graphic generation using Pillow (`PIL`). Draws the user's personality profile card complete with custom colors, progress bars, archetypes, and text-wrapping.
 *   `visualize.py`: Script to generate high-quality analysis plots (distributions, trend lines, box plots, grouped bars, and correlation heatmaps) and saves them in the `plots/` directory.
-*   `build_documentation.py`: Auto-generates a detailed Arabic academic report (`PsychoMedia_Academic_Documentation.docx`) detailing the project's background, methodology, dataset, and findings.
 *   `datasets/`: Holds raw and preprocessed datasets (e.g., `fbDataset.csv`, `empath.csv`, scaled training/testing sets).
 *   `models/`: Stores serialized models (`forest_model.joblib`, `ridge_model.joblib`), scaling matrices (`scaler.joblib`), and selected feature configurations.
 *   `plots/`: Contains generated analytical charts used for data analysis and academic documentation.
