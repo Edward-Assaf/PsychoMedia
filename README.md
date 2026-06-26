@@ -101,5 +101,5 @@ Models are evaluated using **Mean Squared Error (MSE)** on a 20% validation spli
 
 ## 👥 Contributors
 
-*   **Batoul Mohammad Khalil**
+*   **Batoul Mohammad Khaleel**
 *   **Edward Malek Assaf**
