@@ -45,7 +45,7 @@ The system predicts scores on a scale of `1.0` to `5.0` for each of the five dim
 
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/PsychoMedia.git
+    git clone https://github.com/Edward-Assaf/PsychoMedia.git
     cd PsychoMedia
     ```
 
